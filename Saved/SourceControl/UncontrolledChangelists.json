@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Scifi_desert_city/Level/L_showcase_level.umap",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_FloatingPlatform.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_Obstacle1.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_Obstacle2.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IMC_AladinController.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_AladinGameMode.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_Aladin.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IA_Jump.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IA_Look.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IA_Move.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IA_Sprint.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_PlayableAladinController.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_CarpetController.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_MagicCarpet.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IMC_CarpetController.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_StartCharacter.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Input/IA_Move_Up_Down.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_RandomSpeedObsctacle.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/BP_RandomSpeedObsctaleSpawner.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Scifi_desert_city/Meshes/Rocks/SM_small_rock_02.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/BP_RandomSpeedObsctacle.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/MyPlayableAladin.uasset",
+				"C:/Unreal_Engine_Projects/AladinProject/Content/Blueprint/MyPlayableAladin.uasset"
+			]
+		}
+	]
+}

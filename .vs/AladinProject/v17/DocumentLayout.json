@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unreal_Engine_Projects\\AladinProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\StartCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\StartCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\StartCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\StartCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\CarpetController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\CarpetController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\CarpetController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\CarpetController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctaleSpawner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\RandomSpeedObsctaleSpawner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\MagicCarpet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\MagicCarpet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladinController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\PlayableAladinController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Aladin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\Aladin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinGameMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\AladinGameMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinGameMode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\AladinGameMode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\RandomSpeedObsctacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctaleSpawner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\RandomSpeedObsctaleSpawner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\RandomSpeedObsctacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladinController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\PlayableAladinController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\MagicCarpet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\MagicCarpet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Config\\DefaultInput.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Config\\DefaultInput.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProjectEditor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProjectEditor.Target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Aladin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\Aladin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\PlayableAladin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\FloatingPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\FloatingPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\FloatingPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\FloatingPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15AE416B-B5FF-37BD-8340-CA628762AD8E}|Intermediate\\ProjectFiles\\AladinProject.vcxproj|solutionrelative:Source\\AladinProject\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unreal_Engine_Projects\\AladinProject\\Intermediate\\ProjectFiles\\UECommon.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intermediate\\ProjectFiles\\UECommon.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartCharacter.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\StartCharacter.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\StartCharacter.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\StartCharacter.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\StartCharacter.cpp",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAQwMAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T11:20:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UECommon.props",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Intermediate\\ProjectFiles\\UECommon.props",
+              "RelativeDocumentMoniker": "Intermediate\\ProjectFiles\\UECommon.props",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Intermediate\\ProjectFiles\\UECommon.props",
+              "RelativeToolTip": "Intermediate\\ProjectFiles\\UECommon.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-17T14:12:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.MakeFile.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-17T11:22:54.857Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarpetController.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\CarpetController.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\CarpetController.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\CarpetController.h",
+              "RelativeToolTip": "Source\\AladinProject\\CarpetController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T14:29:57.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MagicCarpet.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\MagicCarpet.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\MagicCarpet.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\MagicCarpet.h",
+              "RelativeToolTip": "Source\\AladinProject\\MagicCarpet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T14:20:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpgradeLog.htm",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\UpgradeLog.htm",
+              "RelativeDocumentMoniker": "UpgradeLog.htm",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\UpgradeLog.htm",
+              "RelativeToolTip": "UpgradeLog.htm",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-17T14:03:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RandomSpeedObsctaleSpawner.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctaleSpawner.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\RandomSpeedObsctaleSpawner.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctaleSpawner.h",
+              "RelativeToolTip": "Source\\AladinProject\\RandomSpeedObsctaleSpawner.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T11:58:38.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayableAladinController.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladinController.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\PlayableAladinController.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladinController.h",
+              "RelativeToolTip": "Source\\AladinProject\\PlayableAladinController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T11:36:33.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RandomSpeedObsctacle.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctacle.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\RandomSpeedObsctacle.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctacle.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\RandomSpeedObsctacle.cpp",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAwKEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T11:04:10.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RandomSpeedObsctacle.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctacle.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\RandomSpeedObsctacle.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctacle.h",
+              "RelativeToolTip": "Source\\AladinProject\\RandomSpeedObsctacle.h",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T11:04:11.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartCharacter.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\StartCharacter.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\StartCharacter.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\StartCharacter.h",
+              "RelativeToolTip": "Source\\AladinProject\\StartCharacter.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAzwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T11:44:39.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomSpeedObsctaleSpawner.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctaleSpawner.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\RandomSpeedObsctaleSpawner.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\RandomSpeedObsctaleSpawner.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\RandomSpeedObsctaleSpawner.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T11:58:39.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AladinGameMode.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinGameMode.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\AladinGameMode.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinGameMode.h",
+              "RelativeToolTip": "Source\\AladinProject\\AladinGameMode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T14:04:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarpetController.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\CarpetController.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\CarpetController.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\CarpetController.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\CarpetController.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T14:30:17.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AladinGameMode.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinGameMode.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\AladinGameMode.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinGameMode.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\AladinGameMode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T14:05:00.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aladin.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Aladin.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\Aladin.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Aladin.h",
+              "RelativeToolTip": "Source\\AladinProject\\Aladin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T14:02:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayableAladinController.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladinController.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\PlayableAladinController.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladinController.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\PlayableAladinController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T11:47:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Obstacle.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Obstacle.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\Obstacle.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Obstacle.h",
+              "RelativeToolTip": "Source\\AladinProject\\Obstacle.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T11:03:49.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Aladin.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Aladin.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\Aladin.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Aladin.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\Aladin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T14:02:52.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AladinProjectEditor.Target.cs",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProjectEditor.Target.cs",
+              "RelativeDocumentMoniker": "Source\\AladinProjectEditor.Target.cs",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProjectEditor.Target.cs",
+              "RelativeToolTip": "Source\\AladinProjectEditor.Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T14:05:01.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DefaultInput.ini",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Config\\DefaultInput.ini",
+              "RelativeDocumentMoniker": "Config\\DefaultInput.ini",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Config\\DefaultInput.ini",
+              "RelativeToolTip": "Config\\DefaultInput.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-08-17T14:05:02.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MagicCarpet.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\MagicCarpet.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\MagicCarpet.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\MagicCarpet.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\MagicCarpet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T14:05:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FloatingPlatform.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\FloatingPlatform.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\FloatingPlatform.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\FloatingPlatform.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\FloatingPlatform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T14:03:53.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FloatingPlatform.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\FloatingPlatform.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\FloatingPlatform.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\FloatingPlatform.h",
+              "RelativeToolTip": "Source\\AladinProject\\FloatingPlatform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T14:03:53.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayableAladin.h",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladin.h",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\PlayableAladin.h",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\PlayableAladin.h",
+              "RelativeToolTip": "Source\\AladinProject\\PlayableAladin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-17T14:03:54.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Obstacle.cpp",
+              "DocumentMoniker": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Obstacle.cpp",
+              "RelativeDocumentMoniker": "Source\\AladinProject\\Obstacle.cpp",
+              "ToolTip": "C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\Obstacle.cpp",
+              "RelativeToolTip": "Source\\AladinProject\\Obstacle.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-17T11:06:14.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

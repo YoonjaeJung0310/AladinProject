@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject\\AladinProject.Build.cs",
+		"C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProject.Target.cs",
+		"C:\\Unreal_Engine_Projects\\AladinProject\\Source\\AladinProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_engine_projects\\aladinproject\\source\\aladinproject\\aladinproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_engine_projects\\aladinproject\\intermediate\\build\\win64\\x64\\aladinprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_engine_projects\\aladinproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aladinproject\\definitions.aladinproject.h",
+            "c:\\unreal_engine_projects\\aladinproject\\source\\aladinproject\\aladinproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AladinProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AladinProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AladinProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AladinProject">
+      <UniqueIdentifier>{771122FD-6342-3DDC-BE77-00DB1652174A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AladinProject\Aladin.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\Aladin.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\AladinGameMode.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\AladinGameMode.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\AladinProject\AladinProject.Build.cs">
+      <Filter>Source\AladinProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AladinProject\AladinProject.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\AladinProject.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\CarpetController.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\CarpetController.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\FloatingPlatform.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\FloatingPlatform.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\MagicCarpet.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\MagicCarpet.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\Obstacle.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\Obstacle.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\PlayableAladin.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\PlayableAladin.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\PlayableAladinController.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\PlayableAladinController.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\RandomSpeedObsctacle.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\RandomSpeedObsctacle.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\RandomSpeedObsctaleSpawner.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\RandomSpeedObsctaleSpawner.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\StartCharacter.cpp">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AladinProject\StartCharacter.h">
+      <Filter>Source\AladinProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

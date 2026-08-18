@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AladinProject",
+			"Path": "..\\Source\\AladinProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AladinProjectEditor",
+			"Path": "..\\Source\\AladinProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
